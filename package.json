@@ -1,0 +1,11 @@
+{
+  "name": "java",
+  "version": "1.0.0",
+  "description": "learning java",
+  "main": "index.js",
+  "scripts": {
+    "dev":"javac text.java && java text"
+  },
+  "author": "",
+  "license": "ISC"
+}
