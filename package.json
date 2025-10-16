@@ -4,7 +4,7 @@
   "description": "learning java",
   "main": "index.js",
   "scripts": {
-    "dev":"javac text.java && java text"
+    "dev":"javac funciton.java && java funciton"
   },
   "author": "",
   "license": "ISC"
