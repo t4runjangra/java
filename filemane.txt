@@ -1,0 +1,19 @@
+Hello world!Hello world! tarun here Hello world! tarun here // append on a file 
+
+// import java.io.FileOutputStream; //FileOutputStream
+// import java.io.IOException; // import IOException
+
+// public class io {
+//     public static void main(String[] args) {
+
+//         String text = " Hello world! tarun here";
+//         try (FileOutputStream output = new FileOutputStream("image.jpg", true)) { // just passed a ture which tells the conplier to append into the file 
+//             output.write(text.getBytes());
+//             System.err.println("Done!");
+//         } catch (IOException e) {
+//             System.out.println("error occured");
+//             e.printStackTrace();
+//         }
+//     }
+
+// }
